@@ -1,0 +1,63 @@
+{
+  "site_name": "silence coder portfolio",
+  "site_vertion": "0.1",
+  "site_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehenderit.",
+  "foli_slides": [
+    {
+      "url": "http://127.0.0.1:5500/pexels-rakicevic-nenad-1274260.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 25
+    },
+    {
+      "url": "http://127.0.0.1:5500/pexels-sebastiaan-stam-1480690.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 75
+    },
+
+    {
+      "url": "http://127.0.0.1:5500/pexels-nghia-pm-1555177.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 247
+    },
+    {
+      "url": "http://127.0.0.1:5500/pexels-paul-cameron-1187972.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 357
+    }
+  ],
+
+  "blo_slides": [
+    {
+      "url": "http://127.0.0.1:5500/pexels-marcelo-jaboo-696407.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 774
+    },
+    {
+      "url": "http://127.0.0.1:5500/pexels-elti-meshau-333850.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 467
+    },
+
+    {
+      "url": "http://127.0.0.1:5500/pexels-blaque-x-932638.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 436
+    },
+    {
+      "url": "http://127.0.0.1:5500/pexels-adrien-olichon-2387793.jpg",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "price": 754
+    }
+  ],
+
+  "feilds": [
+    "python",
+    "nodeJS applications",
+    "web developments",
+    "python web scraping",
+    "python django api",
+    "kotlin mobile application",
+    "react apllication",
+    "java application"
+  ]
+}

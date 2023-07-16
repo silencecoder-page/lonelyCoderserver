@@ -4,20 +4,38 @@
   "site_description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehenderit.",
   "foli_slides": [
     {
-      "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/1_best-portfolio-websites.jpg",
-      "desc": "This my Personale Portfolio",
-      "price": 100
+      "url": "https://help.myportfolio.com/hc/en-us/article_attachments/203758918/Screen_Shot_2015-11-03_at_1.54.43_PM.jpg",
+      "desc": "1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "pri_data": 50
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGa1KG5psXLOofAIjM6ZpXCRdGnxuRupM-g&usqp=CAU",
+      "desc": "2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "pri_data": 75
+    },
+
+    {
+      "url": "https://static-cse.canva.com/blob/562985/ScreenShot20200616at11.31.18am.png",
+      "desc": "3 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "pri_data": 247
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXV9DKMx-botNfp8i25YqFmVfa7w7r8rJ7w&usqp=CAU",
+      "desc": "4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
+      "pri_data": 357
     }
   ],
 
   "blo_slides": [],
 
-  "feilds": [
+  "fields": [
     "python",
-    "Web development",
+    "nodeJS applications",
+    "web developments",
     "python web scraping",
-    "python django apis",
+    "python django api",
     "kotlin mobile application",
-    "react apllication"
+    "react apllication",
+    "java application"
   ]
 }

@@ -8,6 +8,7 @@
       "desc": "1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 50
     },
+
     {
       "url": "https://images.pexels.com/photos/1749303/pexels-photo-1749303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "desc": "2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
@@ -19,12 +20,14 @@
       "desc": "3 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 247
     },
+
     {
       "url": "https://images.pexels.com/photos/1420709/pexels-photo-1420709.jpeg",
       "desc": "4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 357
     },
-     {
+
+    {
       "url": "https://images.pexels.com/photos/339119/pexels-photo-339119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "desc": "4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 440
@@ -36,7 +39,7 @@
       "pri_data": 500
     },
 
-     {
+    {
       "url": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "desc": "4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 440
@@ -48,7 +51,7 @@
       "pri_data": 500
     },
 
-     {
+    {
       "url": "https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "desc": "4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 440
@@ -59,7 +62,6 @@
       "desc": "4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, veniam. Atque libero hic officia animi facere non cum molestias inventore esse accusantium officiis iure a sint cumque expedita exercitationem molestiae voluptate repellat, ducimus repudiandae tempore et laudantium perspiciatis? Debitis ducimus commodi eaque minima provident assumenda, doloremque cum aspernatur molestiae reprehe",
       "pri_data": 500
     }
-   
   ],
 
   "blo_slides": [],
